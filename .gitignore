@@ -1,2 +1,8 @@
 app/db.sqlite3
 app/env
+*__pycache__*
+*.__pyc
+app/hello_django/__pycache__/__init__.cpython-312.pyc
+app/hello_django/__pycache__/settings.cpython-312.pyc
+app/hello_django/__pycache__/urls.cpython-312.pyc
+app/hello_django/__pycache__/wsgi.cpython-312.pyc
